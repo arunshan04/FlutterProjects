@@ -1,0 +1,12 @@
+/data/flutter_projects/demo/build/linux/x64/debug/bundle/demo
+/data/flutter_projects/demo/build/linux/x64/debug/bundle/data/icudtl.dat
+/data/flutter_projects/demo/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/data/flutter_projects/demo/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/data/flutter_projects/demo/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/data/flutter_projects/demo/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/data/flutter_projects/demo/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/data/flutter_projects/demo/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/data/flutter_projects/demo/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/data/flutter_projects/demo/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/data/flutter_projects/demo/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/data/flutter_projects/demo/build/linux/x64/debug/bundle/data/flutter_assets/version.json
